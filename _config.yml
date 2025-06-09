@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_nova.png"
+  avatar           : "profile_nova1.png"
   name             : "Nova Mengxia Huang"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD candidate from Wee Kim Wee School of Communication and Information, Nanyang Technological University."
