@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nova Mengxia Huang"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Nova Mengxia Huang"
 description              : &description "Welcome to Nova's world!"
