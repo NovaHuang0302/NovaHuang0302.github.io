@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Communication, Nanyang Technological University, 2026 (expected)
+* M.A. in Communication, Hong Kong Baptist University, 2018
+* B.S. in Advertising, Zhejiang University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2025 - May. 2025: Research Assistant
+  * Nanyang Technological University
+  * Supervisor: Prof May O. Lwin
 
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+**Journal**
+* **Huang, N. M.**, Wong, L. Z., Ho, S. S., & Timothy, B. (2025). Understanding challenges and emotions of informal caregivers of general older adults and people with Alzheimer disease and related dementia: Comparative study. _Journal of Medical Internet Research_, _27_, e54847. [https://doi.org/10.2196/54847](https://doi.org/10.2196/54847)
+* **Huang, N. M.**, & Ho, S. S. (2025). Online support community use for informal caregiving: A scoping review across disciplines. _Information, Communication & Society_, 1–22. [https://doi.org/10.1080/1369118X.2025.2508939](https://doi.org/10.1080/1369118X.2025.2508939)
+* Ho, S. S., Ou, M., **Huang, N. M.**, Chuah, A. S., Ho, V. S., Rosenthal, S., & Kim, H. K. (2025). Public health messaging about dengue on Facebook in Singapore during the COVID-19 pandemic: Content analysis. _JMIR Formative Research_, _9_(1), e66954. [https://doi.org/10.2196/66954](https://doi.org/10.2196/66954) 
+* Li, J. & **Huang, N. M.**<sup>1</sup> (corresponding author). (2024). The formation and evolution of self-governing rules in the online interest-based community: a case study of a knowledge-sharing WeChat group. _Chinese Journal of Computer-Mediated Communication_,_1_, 257-288. doi:CNKI:SUN:ZWCY.0.2024-01-012.
+ 
+**Conference**
+* **Huang. N. M.**, Timothy. B., & Ho, S. S. (2025, June 12-16). _Online self-disclosure of stressors and received social support: Content analysis on subreddits for caregivers of older adults_ [Conference presentation]. 75th Annual Conference of the International Communication Association. Denver, Colorado, United States.
+* **Huang. N. M.**, Timothy. B., & Ho, S. S. (2025, June 12-16). _Care for caregivers: Content analysis on supportive communication in online caregiver communities_ [Conference presentation]. 75th Annual Conference of the International Communication Association. Denver, Colorado, United States.
+* **Huang, N. M.** & Ho, S. S. (2024, July 6-11). _Learning to become a family caregiver: The role of online support communities_ [Conference presentation]. 7th Medicine, Humanity and Media International Conference, Beijing, China.
+* **Huang, N. M.**, & Ho, S. S. (2024, June 20-24). _Online support community use for informal caregiving: A scoping review_ [Conference presentation]. 74th Annual Conference of the International Communication Association, Gold Coast, Australia.
+* **Huang, N. M.**, Wong, L. Z., Ho, S. S., & Timothy, B. (2024, June 20-24). _Beyond words: Unveiling challenges and emotions in online support communities for informal caregivers of older adults_ [Conference presentation]. 74th Annual Conference of the International Communication Association, Gold Coast, Australia
+* **Huang, N. M.** (2023, May 25-29). _Masspersonal self-disclosure in online supportive communication: Advancing the Internet-enhanced self-disclosure theory_ [Conference presentation]. 73rd Annual Conference of the International Communication Association, Toronto, Canada.
+* **Huang, N. M.**, Cheung, J. C. T. & Ho, S.S. (2023, May 25-29). _To speak or not to speak: A multi-country comparative study on the effects of social media news on public opinion expression on nuclear energy_ [Conference presentation]. 73rd Annual Conference of the International Communication Association, Toronto, Canada.
+* **Huang, N. M.** & Ho, S. S. (2022, August 3-6). _Attention, expression, and elaboration: Social media and public engagement in communicating nuclear energy_ [Conference presentation]. 2022 Annual Conference of the Association for Education in Journalism and Mass Communication, Detroit, Michigan, United States. 
+ 
+**Book Chapter**
+* Goh, T. J., **Huang, N. M.**, & Ho, S. S.  (2024). Think, feel, eat: Socio-psychological factors shaping public acceptance of novel foods. In Teng, P. P. S. (ed.), _Food Security Issues in Asia_ (pp.734-761). World Scientific Publishing, Singapore.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CS2008 Fundamentals of Research, 2024
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for flagship SSCI journals, such as _Policy & Internet_ and _Energy Research & Social Science_.
+* Vice President of Academic and Career, Wee Kim Wee School of Communication and Information Graduate Student Club (May 2022 - May 2023)
+
+Skills
+======
+* Research methods: Quantitative & Qualitative research methods, Computer-assisted text analysis
+* Software: SPSS, MPlus, R, Python
