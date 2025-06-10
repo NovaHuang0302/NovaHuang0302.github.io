@@ -6,9 +6,9 @@ author_profile: true
 ---
  
 **Journal**
-* **Huang, N. M.**, Wong, L. Z., Ho, S. S., & Timothy, B. (2025). Understanding Challenges and Emotions of Informal Caregivers of General Older Adults and People With Alzheimer Disease and Related Dementia: Comparative Study. _Journal of Medical Internet Research_, _27_, e54847. (https://doi.org/10.2196/54847)
-* **Huang, N. M.**, & Ho, S. S. (2025). Online support community use for informal caregiving: a scoping review across disciplines. _Information, Communication & Society_, 1–22. (https://doi.org/10.1080/1369118X.2025.2508939)
-* Ho, S. S., Ou, M., **Huang, N. M.**, Chuah, A. S., Ho, V. S., Rosenthal, S., & Kim, H. K. (2025). Public Health Messaging About Dengue on Facebook in Singapore During the COVID-19 Pandemic: Content Analysis. _JMIR Formative Research_, _9_(1), e66954.(https://doi.org/10.2196/66954 
+* **Huang, N. M.**, Wong, L. Z., Ho, S. S., & Timothy, B. (2025). Understanding Challenges and Emotions of Informal Caregivers of General Older Adults and People With Alzheimer Disease and Related Dementia: Comparative Study. _Journal of Medical Internet Research_, _27_, e54847. [https://doi.org/10.2196/54847](https://doi.org/10.2196/54847)
+* **Huang, N. M.**, & Ho, S. S. (2025). Online support community use for informal caregiving: a scoping review across disciplines. _Information, Communication & Society_, 1–22. [https://doi.org/10.1080/1369118X.2025.2508939](https://doi.org/10.1080/1369118X.2025.2508939)
+* Ho, S. S., Ou, M., **Huang, N. M.**, Chuah, A. S., Ho, V. S., Rosenthal, S., & Kim, H. K. (2025). Public Health Messaging About Dengue on Facebook in Singapore During the COVID-19 Pandemic: Content Analysis. _JMIR Formative Research_, _9_(1), e66954. [https://doi.org/10.2196/66954](https://doi.org/10.2196/66954) 
 * Li, J. & **Huang, N. M.** <sup>1</sup>(corresponding author). (2024). The Formation and Evolution of Self-governing Rules in the Online Interestbased Community: A Case Study of a Knowledge-sharing WeChat Group. _China Computer-Mediated Communication Studies_,_1_, 257-288. doi:CNKI:SUN:ZWCY.0.2024-01-012.
  
 **Conference**
