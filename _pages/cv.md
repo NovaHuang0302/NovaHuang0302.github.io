@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Communication, Nanyang Technological University, 2026 (expected)
 * M.A. in Communication, Hong Kong Baptist University, 2018
-* B.S. in Advertising, Zhejiang University, 2017
+* B.A. in Advertising, Zhejiang University, 2017
 
 
 Work experience
