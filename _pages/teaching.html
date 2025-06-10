@@ -5,8 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**CS2008 Fundamentals of Research**
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
 
-Undergraduate course, Wee Kim Wee School of Communication and Information, Nanyang Technological University, 2024
-
-I was a teaching assistant for CS2008 in 2024, instructed by Prof Benjamin Detenber. This course introduces basic principles and methods of social scientific research. It is designed to equip students with skills required for marketing, public relations, and communication campaigns based on research, and for measuring campaign effectiveness. I undertook the responsibility of giving tutorials that are designed to review teaching materials and facilitate students' reflection and application of the key concepts. 
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
