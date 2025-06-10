@@ -15,18 +15,14 @@ Education
 * M.A. in Communication, Hong Kong Baptist University, 2018
 * B.S. in Advertising, Zhejiang University, 2017
 
+
 Work experience
 ======
 * Jan. 2025 - May. 2025: Research Assistant
   * Nanyang Technological University
   * Supervisor: Prof May O. Lwin
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-
 Publications
 ======
 **Journal**
@@ -47,15 +43,18 @@ Publications
  
 **Book Chapter**
 * Goh, T. J., **Huang, N. M.**, & Ho, S. S.  (2024). Think, feel, eat: Socio-psychological factors shaping public acceptance of novel foods. In Teng, P. P. S. (ed.), _Food Security Issues in Asia_ (pp.734-761). World Scientific Publishing, Singapore.
+
   
 Teaching
 ======
 * CS2008 Fundamentals of Research, 2024
+
   
 Service and leadership
 ======
 * Reviewer for flagship SSCI journals, such as _Policy & Internet_ and _Energy Research & Social Science_.
 * Vice President of Academic and Career, Wee Kim Wee School of Communication and Information Graduate Student Club (May 2022 - May 2023)
+
 
 Skills
 ======
