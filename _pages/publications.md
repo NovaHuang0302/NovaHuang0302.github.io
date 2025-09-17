@@ -11,7 +11,7 @@ author_profile: true
 * **Huang, N. M.**, Timothy, B., & Ho, S. S. (2025). Stressors disclosed on Reddit by caregivers of older adults and social support received: Content analysis. _JMIR aging_, 8, e71452. [https://doi.org/10.2196/71452] (https://doi.org/10.2196/71452)
 * **Huang, N. M.**, Timothy, B., & Ho, S. S. (2025). Supportive communication patterns among informal caregivers of older adults on Reddit: A content analysis. _Digital Health_. (forthcoming)
 * Ho, S. S., Chuah, A. S. F., Goh. F., **Huang, N. M.**, Ou, M., Kim, H. K., & Rosenthal, S. (2025). Miserly thinking: Understanding the factors shaping public support towards Project Wolbachia in Singapore. _Environmental Communication_. (forthcoming)
-* Ho, S. S., Ou, M., **Huang, N. M.**, Chuah, A. S., Ho, V. S., Rosenthal, S., & Kim, H. K. (2025). Public health messaging about dengue on Facebook in Singapore during the COVID-19 pandemic: Content analysis. _JMIR Formative Research_, _9_(1), e66954. [https://doi.org/10.2196/66954]
+* Ho, S. S., Ou, M., **Huang, N. M.**, Chuah, A. S., Ho, V. S., Rosenthal, S., & Kim, H. K. (2025). Public health messaging about dengue on Facebook in Singapore during the COVID-19 pandemic: Content analysis. _JMIR Formative Research_, _9_(1), e66954. https://doi.org/10.2196/66954
 * Li, J. & **Huang, N. M.**<sup>1</sup> (corresponding author). (2024). The formation and evolution of self-governing rules in the online interest-based community: a case study of a knowledge-sharing WeChat group. _Chinese Journal of Computer-Mediated Communication_,_1_, 257-288. doi:CNKI:SUN:ZWCY.0.2024-01-012.
  
 **Conference**
