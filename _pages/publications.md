@@ -13,6 +13,9 @@ author_profile: true
 * Ho, S. S., Chuah, A. S. F., Goh. F., **Huang, N. M.**, Ou, M., Kim, H. K., & Rosenthal, S. (2025). Miserly thinking: Understanding the factors shaping public support towards Project Wolbachia in Singapore. _Environmental Communication_. (forthcoming)
 * Ho, S. S., Ou, M., **Huang, N. M.**, Chuah, A. S., Ho, V. S., Rosenthal, S., & Kim, H. K. (2025). Public health messaging about dengue on Facebook in Singapore during the COVID-19 pandemic: Content analysis. _JMIR Formative Research_, _9_(1), e66954. https://doi.org/10.2196/66954
 * Li, J. & **Huang, N. M.**<sup>1</sup> (corresponding author). (2024). The formation and evolution of self-governing rules in the online interest-based community: a case study of a knowledge-sharing WeChat group. _Chinese Journal of Computer-Mediated Communication_,_1_, 257-288. doi:CNKI:SUN:ZWCY.0.2024-01-012.
+
+**Book Chapter**
+* Goh, T. J., **Huang, N. M.**, & Ho, S. S.  (2024). Think, feel, eat: Socio-psychological factors shaping public acceptance of novel foods. In Teng, P. P. S. (ed.), _Food Security Issues in Asia_ (pp.734-761). World Scientific Publishing, Singapore.
  
 **Conference**
 * **Huang. N. M.**, Timothy. B., & Ho, S. S. (2025, June 12-16). _Online self-disclosure of stressors and received social support: Content analysis on subreddits for caregivers of older adults_ [Conference presentation]. 75th Annual Conference of the International Communication Association. Denver, Colorado, United States.
@@ -24,5 +27,3 @@ author_profile: true
 * **Huang, N. M.**, Cheung, J. C. T. & Ho, S.S. (2023, May 25-29). _To speak or not to speak: A multi-country comparative study on the effects of social media news on public opinion expression on nuclear energy_ [Conference presentation]. 73rd Annual Conference of the International Communication Association, Toronto, Canada.
 * **Huang, N. M.** & Ho, S. S. (2022, August 3-6). _Attention, expression, and elaboration: Social media and public engagement in communicating nuclear energy_ [Conference presentation]. 2022 Annual Conference of the Association for Education in Journalism and Mass Communication, Detroit, Michigan, United States. 
  
-**Book Chapter**
-* Goh, T. J., **Huang, N. M.**, & Ho, S. S.  (2024). Think, feel, eat: Socio-psychological factors shaping public acceptance of novel foods. In Teng, P. P. S. (ed.), _Food Security Issues in Asia_ (pp.734-761). World Scientific Publishing, Singapore.
